@@ -1,0 +1,2 @@
+# vation
+static website
